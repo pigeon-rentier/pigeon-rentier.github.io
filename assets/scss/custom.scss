@@ -1,1 +1,12 @@
-// Add your own custom styles here
+
+  header .btn-outline-primary {
+    border-color: transparent;
+    color: #000000;
+    background-color: #FFF;
+    font-weight: 550;
+    border-width: 2px;
+    border-color: #8b2eaf;
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 0 0 39px 0px rgba(95, 32, 135, 0.5);
+  }
+ 

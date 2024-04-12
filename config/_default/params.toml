@@ -27,7 +27,8 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Pigeon Rentier](https://pigeon-rentier.fr)"
+copyright = "© 2024 [Pigeon Rentier](https://pigeon-rentier.fr)"
+homepageTitle = "Devenir rentier sans se faire pigeonner"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -39,7 +40,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Discord"
-link = "contact"
+link = "https://discord.gg/unCesd3q"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -56,9 +57,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["finance", "side hustle", "rentier"]
+description = "Devenir rentier en se faisant pigeonner"
+author = "Pigeon Rentier"
 image = "images/og-image.png"
 
 

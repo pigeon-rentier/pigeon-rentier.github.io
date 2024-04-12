@@ -14,7 +14,9 @@ Tester des side hustle ou des stratégies d'investissement n'est pas une idée n
 Dès le début de l'aventure, il m'a paru opportun de créer un blog, journal de bord des business testés afin d'en tenir un suivi plus rigoureux et documenté que des stories / reels Instagram / TikTok.
 Etant donné que je suis au jour 1 de l'expérimentation et que les euros ne se bousculent pas encore dans mes poches, mon but est de faire en sorte que la création de ce site, sa maintenance ainsi que son hébergement soient le moins coûteux possibles.
 
-## Le site de A à C
+### Le site de A à C
+
+#### Le site
 
 J'ai choisi d'utiliser Hugo - https://gohugo.io/ - un générateur de site statique open-source.  
 
@@ -24,3 +26,8 @@ En termes d'hébergement, cela le simplifie grandement puisque tout ce que j'ai 
 Sais-je faire des sites ? Pas du tout, je suis donc allé piocher un thème pré existant pour combler mes grosses lacunes en la matière. J'ai choisi Hugoplate car c'est un starter template gratuit et open-source qui mêle Hugo et TailwindXCSS pour faire des sites de toute beauté (en tout cas de la beauté nécessaire et suffisante pour mon besoin).
 
 Le contenu du site s'écrit très simplement via des fichiers plats.
+
+#### Son hébergement
+
+Le code du site est sur Github https://github.com/pigeon-rentier/website.
+J'utilise Github Pages pour héberger le site. 
